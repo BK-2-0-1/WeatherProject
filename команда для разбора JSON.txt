@@ -1,0 +1,1 @@
+JSON.parse(document.getElementsByTagName("body")[0].textContent);

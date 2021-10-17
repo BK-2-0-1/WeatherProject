@@ -1,0 +1,11 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.title {
+    font-size: 3rem;
+    font-family: 'Pattaya', sans-serif;
+    margin-left: 50px;
+}
